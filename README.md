@@ -1,0 +1,1 @@
+This was for my thesis while at uni. It's an Android application developed in Kotlin. It was used to store Covid-19 vaccine information that could be shared via QR code and scanned from another device. It also supported biometric authentication as well as face recognition. It was my first time trying Kotlin with the best practises of that time.
